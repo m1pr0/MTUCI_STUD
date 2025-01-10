@@ -1,0 +1,6 @@
+Studying to become a programmer at the
+university begins with the first year, where students study
+the basics of computer science, programming languages and mathematical
+logic. In lectures, they get acquainted with the basic concepts and principles of
+working with data, and in practical classes consolidate their knowledge by performing
+various tasks and projects.
